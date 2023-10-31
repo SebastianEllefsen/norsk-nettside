@@ -1,2 +1,2 @@
 # norsk-nettside
-oppgave norsk 
+oppgave norsk
